@@ -1,0 +1,12 @@
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\bin\Debug\net9.0\TrainSystem.deps.json
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\bin\Debug\net9.0\TrainSystem.dll
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\bin\Debug\net9.0\TrainSystem.pdb
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.AssemblyInfoInputs.cache
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.AssemblyInfo.cs
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.csproj.CoreCompileInputs.cache
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.sourcelink.json
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.dll
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\refint\TrainSystem.dll
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\TrainSystem.pdb
+C:\Users\comma\Desktop\CPSC-1517\cpsc-1517-jan-a05-mike-c-exercise-1-2-Jikiya11\TrainSystem\obj\Debug\net9.0\ref\TrainSystem.dll

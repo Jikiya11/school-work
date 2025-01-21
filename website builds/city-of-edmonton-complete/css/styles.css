@@ -1,0 +1,503 @@
+/* DO NOT TOUCH THE RESET */
+/* All of your CSS goes in here */
+/* If you are using ul or ol, you must style their list-style property */
+
+/* Defaults, do not touch */
+body {
+    font-size: 100%;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+td,
+th {
+    font-family: "Commissioner";
+}
+
+p,
+figcaption,
+caption,
+input {
+    font-family: "Open Sans";
+}
+
+.read-more a {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #254C65;
+    border-radius: 25px;
+    height: 124px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+header h1 a{
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+header p {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+header div {
+    padding: 31px 0 26px 39px;
+}
+
+header nav ul {
+    display: flex;
+    gap: 35px;
+    padding-right: 50px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: "Open Sans";
+    font-weight: 600;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.banner {
+    background-image: url(../img/people-in-park-backgroundjpg.jpg);
+    background-repeat: no-repeat;
+    margin: 24px 0 31px 0;
+    padding: 54px 90px 33px 11px;
+    
+}
+
+.banner-about {
+    background-image: url(../img/rogers-place.jpg);
+    background-repeat: no-repeat;
+    margin: 24px 0 31px 0;
+    padding: 54px 90px 33px 11px;
+    background-size: cover;
+}
+
+.banner-membership {
+    background-image: url(../img/parliament-background.jpg);
+    background-repeat: no-repeat;
+    margin: 24px 0 31px 0;
+    padding: 54px 90px 33px 11px;
+    background-size: cover;
+}
+
+.viel h2 {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    padding: 18px 16px 0 29px;
+}
+
+.viel p {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    width: 814px;
+    padding: 0 16px 46px 29px;
+}
+
+.viel {
+    width: 859px;
+    height: 208px;
+    background-color: rgba(37, 76, 101, 0.6);
+    align-items: center;
+    border-radius: 25px;
+}
+
+.blogs {
+    background-color: #EAEEF0;
+    border-radius: 25px;
+}
+
+.blogs h2 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: left;
+    padding: 14px 0 11.79px 26px;
+    color: #254C65;
+    text-transform: uppercase;
+    
+}
+
+.blogs > section {
+    background-color: white !important;
+    border-radius: 25px;
+    height: 283px;
+    /* 960 - ((27*2) + (21*2)) */
+    width: 864px;
+    display: flex;
+    gap: 29px;
+    margin: 0 27px 0 27px;
+    align-items: center;
+    padding: 0 21px 0 21px;
+}
+
+.blogs {
+    padding-bottom: 21px;
+    margin-bottom: 19px;
+}
+
+.blogs section:nth-child(2) {   
+    margin-bottom: 29px;
+}
+
+.blogs h3 {
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    color: #254C65;
+}
+
+.gardens > div {
+    display: flex;
+}
+
+.gardens > div > div {
+    padding-left: 29.65px;
+}
+
+.gardens h2 {
+    font-size: 48px;
+    text-transform: uppercase;
+    color: #254C65;
+}
+
+.gardens p {
+    width: 562.35px;
+    height: 101px;
+    font-size: 18px;
+    padding-bottom: 14px;
+}
+
+.gardens h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 700;
+    color: #254C65;
+    padding-bottom: 8px;
+}
+
+.gardens figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #111827;
+}
+
+.gardens input:hover {
+    background-color: white;
+    color: #254C65;
+    border: 2px solid #254C65;
+    cursor: pointer;
+}
+
+td {
+    width: 280.675px;
+    height: 48.5px;
+}
+
+table,
+th,
+td {
+    border: 2px solid #111827;
+    text-align: center;
+    color: #111827;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+tr:nth-child(1) {
+    font-weight: 700;
+}
+
+.gardens input {
+    background-color: #254C65;
+    color: white;
+    font-size: 18px;
+    border-radius: 25px;
+    border: none;
+    font-weight: 700;
+    width: 259.7px;
+    height: 45px;
+    align-items: center;
+    margin: 0 351px 0 351px;
+}
+
+footer {
+    background-color: #254C65;
+    border-radius: 25px;
+    margin: 31px 0 59px 0;
+    height: 380px;
+}
+
+footer h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    padding: 27px 0 16px 0;
+    
+}
+
+footer ul{
+    justify-self: center;
+    display: flex;
+    gap: 94px;
+    padding-bottom: 14px;
+}
+
+footer ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Commissioner";
+}
+
+footer ul:nth-child(3) {
+    border-bottom: 3px solid white;
+    width: 416px;
+    justify-content: center;
+    margin-bottom: 33px;
+}
+
+footer > div {
+    padding: 0 360px 25px 355px;
+    width: 416px;
+    display: flex;
+    gap: 53px;
+}
+
+footer > p {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+footer ul li a:hover {
+    color: #78DCFF;
+}
+
+.date {
+    color: #111827;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.offers h2 {
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
+    color: #254C65;
+    padding: 0 0 8px 24px;
+}
+
+.offers div {
+    display: flex;
+    gap: 30px;
+}
+
+.offers section {
+    width: 300px;
+    height: 325px;
+    background-color: #EAEEF0;
+    border-radius: 25px;
+    justify-items: center;
+    padding: 20.17px 17px 0 17px;
+}
+
+.offers section h4 {
+    padding-top: 7.83px;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #254C65;
+}
+
+.offers section p {
+    padding-top: 7px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #111827;
+    text-align: center;
+}
+
+.events {
+    background-color: #EAEEF0;
+    border-radius: 25px;
+    margin-top: 31px;
+    padding: 0 27px 27px 27px;
+}
+
+.events h2 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 48px;
+    color: #254C65;
+    padding: 15px 0 11px 26px;
+}
+
+.events div {
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px;
+}
+
+.events section {
+    width: 418px;
+    height: 497px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    padding: 35px 0 0 20px;
+}
+
+.events section h3 {
+    font-size: 22px;
+    font-weight: 700;
+    padding-top: 14px;
+    text-transform: uppercase;
+    color: #254C65;
+}
+
+.events section p:nth-child(3){
+    font-size: 16px;
+    padding: 5px 21px 10px 0;
+}
+
+.events section p:nth-child(4){
+    padding-bottom: 10px;
+}
+
+.form {
+    margin: 32.22px 80px 0 80px;
+    background-color: #EAEEF0;
+    border-radius: 25px;
+    justify-self: center;
+    padding-left: 86px;
+    padding-bottom: 53.1px;
+}
+
+.form h2 {
+    padding-top: 16.11px;
+    font-size: 48px;
+    color: #254C65;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.form p {
+    color: #254C65;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 23.16px;
+}
+
+.form p:nth-child(4) {
+    padding-top: 48.33px;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 6.04px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #111827;
+}
+
+.form form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+/*
+960 - (80 + 86 + 1 + 1 + 86 + 80) = 626
+*/
+
+.name input,
+.credit input {
+    width: 626px;
+}
+
+/*
+(626 - 30) / 2 = 298
+*/
+
+.address input,
+.city input,
+.email input,
+.phone input,
+.exp-date input,
+.sec-code input{
+    width: 298px;
+}
+
+.form input {
+    border: 1px solid #254C65;
+    height: 40.28px;
+}
+
+.form > input {
+    background-color: #254C65;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 25px;
+    width: 259.7px;
+    height: 45.31px;
+    margin: 43.3px 0 0 165.65px;
+}
+
+.form > input:hover {
+    background-color: white;
+    color: #254C65;
+    border: 2px solid #254C65;
+    cursor: pointer;
+}
+
+.name div,
+.email div {
+    display: flex;
+}
+.name label:nth-child(2) {
+    margin-left: 11px;
+    color: #B91C1C; 
+}
+
+.email label:nth-child(2) {
+    margin-left: 16px;
+    color: #B91C1C;
+}

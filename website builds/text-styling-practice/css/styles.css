@@ -1,0 +1,62 @@
+body {
+    font-size: 100%;
+    /* associate one font family to the body element. */
+  
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #92BEBF;
+    display: flex;
+    margin-bottom: 20px;
+    font-family: oswald;
+    color: #FFFFFF;
+}
+
+header h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 24px;
+}
+
+header div {
+    padding: 90px 0px 0px 50px;
+}
+
+section {
+    display: flex;
+    gap: 24px;
+    padding: 60px 151px 60px 30px;
+    margin-bottom: 43px;
+}
+
+section div div {
+    display: flex;
+    gap: 20px;
+}
+
+section:first-of-type {
+    background-color: #FFFBEB;
+}
+
+section:last-of-type {
+    background-color: #F0FDFA;
+}
+
+section h2 {
+    font-family: oswald;
+    font-size: 36px;
+    color: #01B3B8;
+}
+
+section p {
+    font-family: lora;
+    font-size: 16px;
+}

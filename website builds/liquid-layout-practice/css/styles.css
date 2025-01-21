@@ -1,0 +1,99 @@
+/* 
+
+    Colour Palette
+
+    Darkest – #07182E
+    Columns – #132945
+    Accent  – #29D8BE
+    Text    – #CBD6F5
+    Grey    – #6E7997
+    White   - #ffffff
+
+    Fonts
+
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Oxygen Mono', monospace;
+
+    Layout Grid
+
+    Row Height is 16px.
+    Column Width is 296px.
+    Vertical Gutters are 18px.
+
+*/
+
+html {
+    font-size: 16px;
+}
+
+/* 16px = 1rem - based on default fontsize
+   32px = 2rem
+   48px = 3rem
+   64px = 4rem
+   80px = 5rem  */
+
+body {
+    font-size: 100%;
+}
+
+*,
+*:before, *:after {
+    box-sizing: border-box;
+    box-sizing: inherit;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+section {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+body > div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+body > div div {
+    width: 33%;
+}
+
+footer {
+    background-color: darkslategray;
+    color: #f8f8f8;
+    text-align: center;
+    line-height: 4.5rem;
+}
+
+/* *** Typographical Styles *** */
+
+section p {
+    max-width: 85ch;
+}
+
+h1 {
+    font-size: 4.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+/* *** Navigation ***  */
+/* a {
+
+}
+
+a:link,  a:visited {
+    background-color:  ;
+    color:  ;
+}
+
+a:hover, a:active {
+    background-color:  ;
+    color:  ;
+} */
+

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6306524-BC07-4FBF-9C16-8B14BF0A9FC6}|UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\unittestingforoops\\unittestingforoops\\employment_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6306524-BC07-4FBF-9C16-8B14BF0A9FC6}|UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj|solutionrelative:unittestingforoops\\unittestingforoops\\employment_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6306524-BC07-4FBF-9C16-8B14BF0A9FC6}|UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\unittestingforoops\\unittestingforoops\\unittestingforoops.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6306524-BC07-4FBF-9C16-8B14BF0A9FC6}|UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj|solutionrelative:unittestingforoops\\unittestingforoops\\unittestingforoops.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\oopsreview\\supervisorylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|solutionrelative:oopsreview\\supervisorylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\oopsreview\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|solutionrelative:oopsreview\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\oopsreview\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|solutionrelative:oopsreview\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|c:\\users\\comma\\desktop\\cpsc-1517\\1517-jan-2025-a05-mike-c-workbook-v2-jikiya11\\oopsreview\\oopsreview\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF49F26E-5ADF-4A6B-A817-3AD180C3DF3F}|OOPSReview\\OOPSReview.csproj|solutionrelative:oopsreview\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupervisoryLevel.cs",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\SupervisoryLevel.cs",
+              "RelativeDocumentMoniker": "OOPSReview\\SupervisoryLevel.cs",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\SupervisoryLevel.cs",
+              "RelativeToolTip": "OOPSReview\\SupervisoryLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:14:36.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestingForOOPs",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj",
+              "RelativeDocumentMoniker": "UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj",
+              "RelativeToolTip": "UnitTestingForOOPs\\UnitTestingForOOPs\\UnitTestingForOOPs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T17:54:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ee48ac7-d7eb-4653-a54e-3bba557ccc9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employment_Should.cs",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\UnitTestingForOOPs\\UnitTestingForOOPs\\Employment_Should.cs",
+              "RelativeDocumentMoniker": "UnitTestingForOOPs\\UnitTestingForOOPs\\Employment_Should.cs",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\UnitTestingForOOPs\\UnitTestingForOOPs\\Employment_Should.cs",
+              "RelativeToolTip": "UnitTestingForOOPs\\UnitTestingForOOPs\\Employment_Should.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:11:14.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "OOPSReview\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\ClassDiagram1.cd",
+              "RelativeToolTip": "OOPSReview\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000968|",
+              "WhenOpened": "2025-01-15T18:49:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\Utilities.cs",
+              "RelativeDocumentMoniker": "OOPSReview\\Utilities.cs",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\Utilities.cs",
+              "RelativeToolTip": "OOPSReview\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:51:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employment.cs",
+              "DocumentMoniker": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\Employment.cs",
+              "RelativeDocumentMoniker": "OOPSReview\\Employment.cs",
+              "ToolTip": "C:\\Users\\comma\\Desktop\\CPSC-1517\\1517-jan-2025-a05-mike-c-workbook-v2-Jikiya11\\OOPSReview\\OOPSReview\\Employment.cs",
+              "RelativeToolTip": "OOPSReview\\Employment.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:49:43.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

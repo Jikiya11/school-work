@@ -1,0 +1,80 @@
+/* DO NOT TOUCH THE RESET */
+/* All of your CSS goes in here */
+/* If you are using ul or ol, you must style their list-style property */
+
+/* Defaults, do not touch */
+body {
+    font-size: 100%;
+    font-family: "Oswald";
+    text-transform: uppercase;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #FF0000;
+}
+
+header h1 {
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 1;
+    width: 137px;
+}
+
+header h1 a {
+    color: #9B9B9B;
+}
+
+main h2 {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 4px 14px 6px 52px;
+}
+
+header li a {
+    font-size: 31px;
+    font-weight: 400;
+    color: black;
+}
+
+main li a {
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+    line-height: 2.5;
+}
+
+main {
+    background-image: url(../img/mechanic-under-car.jpg);
+    background-size: cover;
+    padding: 103px 753px 208px 0px;
+    text-align: right;
+}
+
+.viel {
+    background-color: rgba(217, 217, 217, 0.7);
+}
+
+main ul {
+    padding: 0px 14px 7px 74px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 22px 16px 22px;
+}
+
+header ul {
+    display: flex;
+    gap: 84px;
+}
